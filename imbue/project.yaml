@@ -6,7 +6,7 @@ repository: https://github.com/subquery/subql-dictionary
 schema:
   file: ./schema.graphql
 network:
-  genesisHash: "0xc1b843cd79d6f5436a7e0a1cd2ede8b8ca4c2016d7b2e1ce1ef15c017391bf0b"
+  genesisHash: "0x2c2754adb505017f21c0baff7b5a0ae0d530677616bcef081d904c4fb2925270"
   endpoint: wss://testnet.imbue.network  
 dataSources:
   - kind: substrate/Runtime
